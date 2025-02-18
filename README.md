@@ -1,4 +1,4 @@
-# *Assignment 1 | Correlation Analysis of Cancer Data *
+# Assignment 1 | Correlation Analysis of Cancer Data 
 
 ### *Programmer Name: Aruna Priya Cheekatla*
 
@@ -10,11 +10,7 @@ Date: 02/18/2025
 The primary goal of this assignment is to study and compare miRNA expression data from two distinct cancer-related datasets. The script uses Pearson correlation analysis to determine how different cancer types link inside each dataset and between the two datasets.
 
 ### *Dependencies:*
-pandas
-seaborn
-matplotlib
-numpy
-google.colab (for file downloading in Google Colab)
+pandas, seaborn, matplotlib, numpy, google.colab (for file downloading in Google Colab)
 
 ### *Input Files:* 
 1. matrix1.txt: Data matrix 1 with cancer type expressions.
