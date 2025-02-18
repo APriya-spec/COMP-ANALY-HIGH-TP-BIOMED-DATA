@@ -14,6 +14,7 @@ pandas, seaborn, matplotlib, numpy, google.colab (for file downloading in Google
 
 ### *Input Files:* 
 1. matrix1.txt: Data matrix 1 with cancer type expressions.
+   
 2. matrix2.txt: Data matrix 2 with cancer type expressions.
    
 ### *Generated files:*
@@ -21,10 +22,13 @@ pandas, seaborn, matplotlib, numpy, google.colab (for file downloading in Google
 1. Heatmaps:
 
 heatmap_matrix1.png = Heatmap of Pearson Correlation for Matrix 1
+
 heatmap_matrix2.png = Heatmap of Pearson Correlation for Matrix 2
 
 2. CSV Files:
 
 correlation_matrix1.csv = Pearson correlation coefficients for all cancer types in Matrix 1
+
 correlation_matrix2.csv = Pearson correlation coefficients for all cancer types in Matrix 2
+
 overall_correlations_data.csv = Final cancer-specific correlations + overall correlation between the two matrices
