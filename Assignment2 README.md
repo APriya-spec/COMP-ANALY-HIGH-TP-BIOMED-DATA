@@ -8,6 +8,7 @@ Date: 03/07/2025
 
 ### *Description:* 
 This assignment's main goal is to use time-series decay data to compute yeast gene transcript half-lives.  The script analyses the provided dataset, extracts expression levels for each transcript through time, and fits an exponential decay function to estimate each transcript's half-life.  The ultimate half-life of each gene is calculated using the average of three replicate calculations.  The script also selects the top and bottom 10% of genes by half-life for additional functional enrichment analysis.
+
 ### *Dependencies:*
 pandas, numpy, scipy
 
