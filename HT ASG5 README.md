@@ -17,14 +17,14 @@ The script performs the following key tasks:
 5. Prints the test statistic and p-value for interpretation.
 
 ### *Dependencies:*  
-- pandas (for data loading)  
-- networkx (for graph creation and shortest path analysis)  
-- scipy (for statistical testing)
+- pandas   
+- networkx  
+- scipy 
 
 ### *Input Files:*  
-1. Human-PPI.txt — space-separated file containing protein interaction pairs  
-2. protein-list1.txt — first list of proteins to compare  
-3. protein-list2.txt — second list of proteins to compare
+1. Human-PPI.txt   
+2. protein-list1.txt 
+3. protein-list2.txt 
 
 ### *Generated Output:*  
 - Prints:
